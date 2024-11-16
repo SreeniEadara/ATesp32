@@ -2232,6 +2232,16 @@
 	)
 	(wire
 		(pts
+			(xy 115.57 149.86) (xy 123.19 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c85f2c0e-275d-4cc3-bcf0-7b3a6e6fe6fc")
+	)
+	(wire
+		(pts
 			(xy 88.9 138.43) (xy 88.9 135.89)
 		)
 		(stroke
@@ -2242,6 +2252,16 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 149.86) (xy 110.49 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb3c6646-9dc2-48af-966b-be5a6f8b2fea")
+	)
+	(wire
+		(pts
 			(xy 97.79 87.63) (xy 97.79 88.9)
 		)
 		(stroke
@@ -2249,6 +2269,16 @@
 			(type default)
 		)
 		(uuid "cdab942b-64b6-4273-8d89-f8def3ff3362")
+	)
+	(wire
+		(pts
+			(xy 123.19 149.86) (xy 123.19 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0588530-7469-4eb7-8511-a090bb8a002d")
 	)
 	(wire
 		(pts
@@ -2330,9 +2360,19 @@
 		)
 		(uuid "76898151-ef43-45d2-b797-de4425d97e9c")
 	)
+	(text "MCP73832 uses open drain\nLOW when charging"
+		(exclude_from_sim no)
+		(at 113.03 155.702 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "be2e7126-81fc-4fff-957f-694d10f331bf")
+	)
 	(symbol
 		(lib_id "Device:LED_Small")
-		(at 99.06 152.4 270)
+		(at 113.03 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2341,25 +2381,23 @@
 		(fields_autoplaced yes)
 		(uuid "04b4b7d6-ed12-4f63-8270-4484542f8c66")
 		(property "Reference" "D2"
-			(at 101.6 151.1934 90)
+			(at 113.0935 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "LED_Small"
-			(at 101.6 153.7334 90)
+			(at 113.0935 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
-			(at 99.06 152.4 90)
+			(at 113.03 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2368,7 +2406,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 99.06 152.4 90)
+			(at 113.03 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2377,7 +2415,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, small symbol"
-			(at 99.06 152.4 0)
+			(at 113.03 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2395,71 +2433,6 @@
 			(project "ATesp32"
 				(path "/465ced44-ee36-4323-9fa6-a4501ea89ff6/2df8408e-27a9-477c-88a6-1eead4d75269"
 					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 99.06 154.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "096cb5b9-14c2-48a2-941c-3cbe9872aaac")
-		(property "Reference" "#PWR029"
-			(at 99.06 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 99.06 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 99.06 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 99.06 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 99.06 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "12eb7e10-5c5b-4205-ab33-32f278080e9e")
-		)
-		(instances
-			(project "ATesp32"
-				(path "/465ced44-ee36-4323-9fa6-a4501ea89ff6/2df8408e-27a9-477c-88a6-1eead4d75269"
-					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -3035,7 +3008,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MCP73831-2-OT"
+		(property "Value" "MCP73832"
 			(at 91.0941 116.84 0)
 			(effects
 				(font
@@ -3973,6 +3946,72 @@
 			(project "ATesp32"
 				(path "/465ced44-ee36-4323-9fa6-a4501ea89ff6/2df8408e-27a9-477c-88a6-1eead4d75269"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 123.19 147.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dc60f96c-7650-41fa-bdc5-fde1f6f15e76")
+		(property "Reference" "#PWR011"
+			(at 123.19 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 123.19 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 123.19 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 123.19 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "590bceb8-c8c3-4863-aebd-29a91be20b3c")
+		)
+		(instances
+			(project "ATesp32"
+				(path "/465ced44-ee36-4323-9fa6-a4501ea89ff6/2df8408e-27a9-477c-88a6-1eead4d75269"
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
