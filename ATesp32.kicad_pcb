@@ -4834,7 +4834,7 @@
 			(roundrect_rratio 0.25)
 			(net 11 "Net-(U5-VDD)")
 			(pinfunction "VDD")
-			(pintype "power_out")
+			(pintype "power_in")
 			(uuid "c4fd1d88-21d2-4453-a116-e399adafcca6")
 		)
 		(pad "7" smd roundrect
@@ -5261,7 +5261,7 @@
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D4"
-			(at 0 -1.85 360)
+			(at 0 -1.85 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "d42b7702-ee41-4808-bd64-bec2c19993e6")
@@ -5273,7 +5273,7 @@
 			)
 		)
 		(property "Value" "NSR0320"
-			(at 0.1 1.9 360)
+			(at 0.1 1.9 0)
 			(layer "F.Fab")
 			(uuid "c34583a6-32fc-43b4-8269-a8d589cdea39")
 			(effects
@@ -5498,7 +5498,7 @@
 			(uuid "cb671ad7-e55a-4789-8932-29520c07ab45")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -1.85 360)
+			(at 0 -1.85 0)
 			(layer "F.Fab")
 			(uuid "4c00e4f6-2eba-4201-9abe-7f442fc7ac8f")
 			(effects
