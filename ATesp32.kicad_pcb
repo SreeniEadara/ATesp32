@@ -120,7 +120,7 @@
 			(plotframeref no)
 			(viasonmask no)
 			(mode 1)
-			(useauxorigin no)
+			(useauxorigin yes)
 			(hpglpennumber 1)
 			(hpglpenspeed 20)
 			(hpglpendiameter 15.000000)
@@ -139,9 +139,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "Fabrication/")
 		)
 	)
 	(net 0 "")
@@ -2839,7 +2839,7 @@
 				)
 			)
 		)
-		(property "Value" "MCP73832"
+		(property "Value" "MCP73832-2"
 			(at 0 2.4 90)
 			(layer "F.Fab")
 			(uuid "ecc42ede-bdc7-4d3c-8bb3-52f89cf50166")
@@ -7821,7 +7821,9 @@
 		(path "/4e5573dd-de91-489c-970b-bb62eef8097e")
 		(sheetname "Root")
 		(sheetfile "ATesp32.kicad_sch")
-		(attr through_hole exclude_from_pos_files allow_missing_courtyard)
+		(attr through_hole exclude_from_pos_files exclude_from_bom allow_missing_courtyard
+			dnp
+		)
 		(fp_line
 			(start 0.255 -0.27)
 			(end 1.255 -1.27)
@@ -10921,7 +10923,7 @@
 				)
 			)
 		)
-		(property "Value" "ESP32-S3"
+		(property "Value" "ESP32-S3FH4R2"
 			(at 0 4.800001 135)
 			(layer "F.Fab")
 			(uuid "5803712b-d70b-4afd-a76f-966df0e4d6ea")
@@ -13963,7 +13965,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C8"
-			(at 1.65 0.05 270)
+			(at 1.65 0.05 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a39c3a13-8985-4456-a474-0608ba25605e")
@@ -15246,7 +15248,7 @@
 		(sheetname "Root")
 		(sheetfile "ATesp32.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start -0.7 -1)
 			(end 0.7 -1)
@@ -15563,7 +15565,7 @@
 		(sheetname "Root")
 		(sheetfile "ATesp32.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 1.4 -0.3)
 			(end 1.4 0.3)
@@ -15880,7 +15882,7 @@
 		(sheetname "USB")
 		(sheetfile "ATesp32_USB.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(net_tie_pad_groups "1, 2")
 		(fp_poly
 			(pts
@@ -16210,7 +16212,7 @@
 		(sheetname "USB")
 		(sheetfile "ATesp32_USB.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(net_tie_pad_groups "1, 2")
 		(fp_poly
 			(pts

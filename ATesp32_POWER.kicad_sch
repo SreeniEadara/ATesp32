@@ -3188,7 +3188,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MCP73832"
+		(property "Value" "MCP73832-2"
 			(at 91.0941 116.84 0)
 			(effects
 				(font

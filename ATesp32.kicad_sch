@@ -6543,9 +6543,9 @@
 		(at 259.08 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4e5573dd-de91-489c-970b-bb62eef8097e")
 		(property "Reference" "U2"
@@ -6757,7 +6757,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "595d1ea9-b01f-4ee0-be16-9c9685db4408")
 		(property "Reference" "JP6"
@@ -7104,7 +7104,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ESP32-S3"
+		(property "Value" "ESP32-S3FH4R2"
 			(at 101.2541 140.97 0)
 			(effects
 				(font
@@ -8002,7 +8002,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a3ea8acd-86fc-4f0a-9782-fba91b8d6222")
 		(property "Reference" "JP4"

@@ -3812,7 +3812,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "262a4223-3b14-4381-a3b4-926006b7714a")
 		(property "Reference" "JP8"
 			(at 104.14 56.642 0)
@@ -5416,7 +5416,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d4ba520d-60e7-4e07-a890-43be38ab710e")
 		(property "Reference" "JP7"

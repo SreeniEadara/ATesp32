@@ -1,0 +1,27 @@
+Drill report for ATesp32.kicad_pcb
+Created on 2024-11-16T14:05:42-0600
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'ATesp32-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.200mm  0.0079"  (179 holes)
+    T2  0.600mm  0.0236"  (4 holes)  (with 4 slots)
+    T3  0.800mm  0.0315"  (40 holes)
+
+    Total plated holes count 223
+
+
+Drill file 'ATesp32-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.650mm  0.0256"  (2 holes)
+
+    Total unplated holes count 2
