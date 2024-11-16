@@ -5999,7 +5999,6 @@
 	(symbol
 		(lib_id "Device:Antenna_Chip")
 		(at 168.91 154.94 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6007,7 +6006,7 @@
 		(dnp no)
 		(uuid "0f8b9e34-1ec1-44c4-9463-09a3a9251e61")
 		(property "Reference" "AE1"
-			(at 163.83 151.1299 0)
+			(at 173.99 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6016,7 +6015,7 @@
 			)
 		)
 		(property "Value" "Antenna_Chip"
-			(at 163.83 153.6699 0)
+			(at 173.99 153.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6025,7 +6024,7 @@
 			)
 		)
 		(property "Footprint" "RF_Antenna:Johanson_2450AT18x100"
-			(at 171.45 150.495 0)
+			(at 166.37 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6034,7 +6033,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 150.495 0)
+			(at 166.37 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
