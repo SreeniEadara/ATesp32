@@ -3401,7 +3401,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C25765"
+		(property "LCSC" "C25765"
 			(at 54.61 63.5 0)
 			(effects
 				(font
@@ -3505,7 +3505,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C48192"
+		(property "LCSC" "C48192"
 			(at 184.15 53.34 0)
 			(effects
 				(font
@@ -3609,7 +3609,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C25744"
+		(property "LCSC" "C25744"
 			(at 64.77 55.88 0)
 			(effects
 				(font
@@ -3754,15 +3754,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C315248"
-			(at 102.87 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Device" ""
 			(at 102.87 25.4 0)
 			(effects
@@ -3782,6 +3773,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 102.87 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C315248"
 			(at 102.87 25.4 0)
 			(effects
 				(font
@@ -4046,7 +4046,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C2988369"
+		(property "LCSC" "C2988369"
 			(at 162.56 72.39 0)
 			(effects
 				(font
@@ -4197,7 +4197,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C510300"
+		(property "LCSC" "C510300"
 			(at 105.41 92.71 0)
 			(effects
 				(font
@@ -4433,7 +4433,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C25905"
+		(property "LCSC" "C25905"
 			(at 181.61 62.23 0)
 			(effects
 				(font
@@ -4539,7 +4539,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C510300"
+		(property "LCSC" "C510300"
 			(at 119.38 97.79 0)
 			(effects
 				(font
@@ -4751,15 +4751,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C1525"
-			(at 60.96 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Device" ""
 			(at 60.96 38.1 0)
 			(effects
@@ -4779,6 +4770,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 60.96 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1525"
 			(at 60.96 38.1 0)
 			(effects
 				(font
@@ -4882,7 +4882,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C25905"
+		(property "LCSC" "C25905"
 			(at 187.96 64.77 0)
 			(effects
 				(font
@@ -5118,7 +5118,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C969151"
+		(property "LCSC" "C969151"
 			(at 85.09 73.66 0)
 			(effects
 				(font
@@ -5560,15 +5560,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C315248"
-			(at 72.39 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Device" ""
 			(at 72.39 38.1 0)
 			(effects
@@ -5588,6 +5579,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 72.39 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C315248"
 			(at 72.39 38.1 0)
 			(effects
 				(font
@@ -5693,7 +5693,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C25792"
+		(property "LCSC" "C25792"
 			(at 59.69 69.85 0)
 			(effects
 				(font
@@ -5799,7 +5799,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C25905"
+		(property "LCSC" "C25905"
 			(at 105.41 87.63 0)
 			(effects
 				(font
@@ -5971,7 +5971,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C25905"
+		(property "LCSC" "C25905"
 			(at 119.38 90.17 0)
 			(effects
 				(font

@@ -2450,7 +2450,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C510300"
+		(property "LCSC" "C510300"
 			(at 113.03 149.86 0)
 			(effects
 				(font
@@ -2529,15 +2529,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C315248"
-			(at 97.79 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Device" ""
 			(at 97.79 83.82 0)
 			(effects
@@ -2557,6 +2548,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 97.79 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C315248"
 			(at 97.79 83.82 0)
 			(effects
 				(font
@@ -2726,7 +2726,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C51118"
+		(property "LCSC" "C51118"
 			(at 118.11 73.66 0)
 			(effects
 				(font
@@ -2946,15 +2946,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C315248"
-			(at 109.22 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Device" ""
 			(at 109.22 128.27 0)
 			(effects
@@ -2974,6 +2965,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 109.22 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C315248"
 			(at 109.22 128.27 0)
 			(effects
 				(font
@@ -3079,7 +3079,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C25905"
+		(property "LCSC" "C25905"
 			(at 99.06 144.78 0)
 			(effects
 				(font
@@ -3253,7 +3253,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C38066"
+		(property "LCSC" "C38066"
 			(at 88.9 124.46 0)
 			(effects
 				(font
@@ -3368,7 +3368,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C25744"
+		(property "LCSC" "C25744"
 			(at 74.93 132.08 0)
 			(effects
 				(font
@@ -3474,7 +3474,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C459541"
+		(property "LCSC" "C459541"
 			(at 92.71 54.61 0)
 			(effects
 				(font
@@ -3847,7 +3847,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C25741"
+		(property "LCSC" "C25741"
 			(at 100.33 74.93 0)
 			(effects
 				(font
@@ -4085,7 +4085,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C25741"
+		(property "LCSC" "C25741"
 			(at 82.55 78.74 0)
 			(effects
 				(font
@@ -4323,7 +4323,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C295747"
+		(property "LCSC" "C295747"
 			(at 127 121.92 0)
 			(effects
 				(font
@@ -4757,7 +4757,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C48192"
+		(property "LCSC" "C48192"
 			(at 87.63 71.12 0)
 			(effects
 				(font
