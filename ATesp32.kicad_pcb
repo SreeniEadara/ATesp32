@@ -641,7 +641,7 @@
 				)
 			)
 		)
-		(property "Mouser" "187-CL05B104KO5NNNC"
+		(property "Mouser" ""
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1478,7 +1478,7 @@
 				)
 			)
 		)
-		(property "Mouser" "187-CL05B104KO5NNNC"
+		(property "Mouser" ""
 			(at 0 0 -135)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2666,6 +2666,19 @@
 				)
 			)
 		)
+		(property "DigiKey" "AP2112K-3.3TRG1DICT-ND"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27cbc7c3-8f4a-4b46-83f4-bde99b1fc519")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23?5*")
 		(path "/2df8408e-27a9-477c-88a6-1eead4d75269/2907abbc-2126-4dc9-b0e2-fc11ccfd0493")
 		(sheetname "POWER")
@@ -2904,7 +2917,7 @@
 				)
 			)
 		)
-		(property "Value" "MCP73832-2"
+		(property "Value" "MCP73832T-2"
 			(at 0 2.4 90)
 			(layer "F.Fab")
 			(uuid "ecc42ede-bdc7-4d3c-8bb3-52f89cf50166")
@@ -2996,6 +3009,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7a12bc24-11a9-4c98-9136-8aacd24bc528")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey" "MCP73832T-2ACI/OTCT-ND"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "292cd507-b53c-4935-9b82-0ce55d2ff3bd")
 			(effects
 				(font
 					(size 1 1)
@@ -3622,7 +3648,7 @@
 				)
 			)
 		)
-		(property "Mouser" "187-CL05B104KO5NNNC"
+		(property "Mouser" ""
 			(at 0 0 135)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5650,6 +5676,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "793484cc-fab4-4b98-899e-bab11d348448")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey" "336-5887-ND"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "272b0c4c-16fc-4219-9a65-953b23e731d3")
 			(effects
 				(font
 					(size 1 1)
@@ -9877,7 +9916,7 @@
 				)
 			)
 		)
-		(property "Mouser" "187-CL05B104KO5NNNC"
+		(property "Mouser" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14064,7 +14103,7 @@
 				)
 			)
 		)
-		(property "Mouser" "187-CL05B104KO5NNNC"
+		(property "Mouser" ""
 			(at 0 0 -135)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14901,7 +14940,7 @@
 				)
 			)
 		)
-		(property "Mouser" "187-CL05B104KO5NNNC"
+		(property "Mouser" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")

@@ -496,7 +496,7 @@
       "idf": "",
       "netlist": "",
       "plot": "Fabrication/",
-      "pos_files": "Fabrication/",
+      "pos_files": "./",
       "specctra_dsn": "",
       "step": "",
       "svg": "",

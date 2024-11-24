@@ -4841,7 +4841,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "187-CL05B104KO5NNNC"
+		(property "Mouser" ""
 			(at 60.96 38.1 0)
 			(effects
 				(font
@@ -5182,6 +5182,15 @@
 			)
 		)
 		(property "LCSC" "C969151"
+			(at 85.09 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "336-5887-ND"
 			(at 85.09 73.66 0)
 			(effects
 				(font

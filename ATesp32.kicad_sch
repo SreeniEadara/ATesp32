@@ -6026,7 +6026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "187-CL05B104KO5NNNC"
+		(property "Mouser" ""
 			(at 135.89 63.5 0)
 			(effects
 				(font
@@ -7797,7 +7797,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "187-CL05B104KO5NNNC"
+		(property "Mouser" ""
 			(at 124.46 49.53 0)
 			(effects
 				(font
@@ -7920,7 +7920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "187-CL05B104KO5NNNC"
+		(property "Mouser" ""
 			(at 100.33 25.4 0)
 			(effects
 				(font
@@ -8511,7 +8511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "187-CL05B104KO5NNNC"
+		(property "Mouser" ""
 			(at 82.55 49.53 0)
 			(effects
 				(font
@@ -9948,7 +9948,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "187-CL05B104KO5NNNC"
+		(property "Mouser" ""
 			(at 179.07 134.62 0)
 			(effects
 				(font
