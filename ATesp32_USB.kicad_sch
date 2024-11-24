@@ -3514,6 +3514,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "NSR0320MW2T1GOSCT-ND"
+			(at 184.15 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0ed613fc-6875-40f4-8989-26ac001765b3")
 		)
@@ -3790,6 +3799,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1276-1450-1-ND"
+			(at 102.87 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2cc40fd6-89e1-4546-b76f-67b5901f8bdc")
 		)
@@ -3992,7 +4010,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 			(at 166.37 72.39 0)
 			(effects
 				(font
@@ -4047,6 +4065,15 @@
 			)
 		)
 		(property "LCSC" "C2988369"
+			(at 162.56 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "2073-USB4105-GF-ACT-ND"
 			(at 162.56 72.39 0)
 			(effects
 				(font
@@ -4198,6 +4225,15 @@
 			)
 		)
 		(property "LCSC" "C510300"
+			(at 105.41 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "SML-P11UTT86RCT-ND"
 			(at 105.41 92.71 0)
 			(effects
 				(font
@@ -4548,6 +4584,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "SML-P11UTT86RCT-ND"
+			(at 119.38 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "92d1de81-8549-42c0-b1dd-9002f10eb258")
 		)
@@ -4779,6 +4824,24 @@
 			)
 		)
 		(property "LCSC" "C1525"
+			(at 60.96 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1276-1001-1-ND"
+			(at 60.96 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "187-CL05B104KO5NNNC"
 			(at 60.96 38.1 0)
 			(effects
 				(font
@@ -5588,6 +5651,15 @@
 			)
 		)
 		(property "LCSC" "C315248"
+			(at 72.39 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1276-1450-1-ND"
 			(at 72.39 38.1 0)
 			(effects
 				(font
