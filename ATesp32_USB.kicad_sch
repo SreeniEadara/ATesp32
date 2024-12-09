@@ -4144,7 +4144,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small")
-		(at 105.41 92.71 270)
+		(at 105.41 92.71 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4153,21 +4153,21 @@
 		(fields_autoplaced yes)
 		(uuid "492541f5-7d2f-4b1a-ab9d-1b7363fb31e3")
 		(property "Reference" "D6"
-			(at 107.95 91.5034 90)
+			(at 107.95 91.3764 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "LED_Small"
-			(at 107.95 94.0434 90)
+			(at 107.95 93.9164 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
@@ -4495,7 +4495,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small")
-		(at 119.38 97.79 270)
+		(at 119.38 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4504,21 +4504,21 @@
 		(fields_autoplaced yes)
 		(uuid "6ca42084-dd26-4444-94c1-5c4291e8812d")
 		(property "Reference" "D5"
-			(at 121.92 96.5834 90)
+			(at 121.92 96.4564 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "LED_Small"
-			(at 121.92 99.1234 90)
+			(at 121.92 98.9964 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
